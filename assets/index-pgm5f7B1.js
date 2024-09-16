@@ -9027,7 +9027,7 @@ const Ad = "./assets/Logo-3YiHKmx6.png",
         }),
       ],
     }),
-  Bd = "./assets/Home-Video-sYhNhwDb.mp4",
+  Bd = "./Home-Video-sYhNhwDb.mp4",
   Hd = () =>
     p.jsxs("div", {
       className: "relative",
